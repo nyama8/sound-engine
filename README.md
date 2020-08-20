@@ -9,4 +9,4 @@ through the program.
 
 ### Dependencies
 This project was developed entirely in Python3. Dependencies required are
-included in the dependencies.txt
+included in the requirements.txt
